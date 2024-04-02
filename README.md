@@ -1,6 +1,11 @@
 DESCRIPCION GENERAL 
+
+
 El conjunto de datos representado en la tabla proporciona información detallada sobre diferentes parámetros médicos y demográficos de varios sujetos, posiblemente relacionados con un estudio médico de pacientes.
+
+
 Los datos que vas aencontrar relacionados en la tabla son:
+
 Record #: Identificador único para cada registro en el conjunto de datos.
 Age: La edad del sujeto, representada en años.
 Gender: El género del sujeto, indicado por "M" para masculino y "F" para femenino.
