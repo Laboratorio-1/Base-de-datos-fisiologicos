@@ -11,7 +11,9 @@ Treatment: Indica si el sujeto está recibiendo tratamiento médico, donde "y" r
 Systolic BP: La presión arterial sistólica del sujeto, medida en mmHg (milímetros de mercurio).
 Diastolic BP: La presión arterial diastólica del sujeto, medida en mmHg.
 Heart Rate: La frecuencia cardíaca del sujeto, medida en latidos por minuto (bpm).
+
 JNC: Indica la clasificación de la presión arterial según las pautas del Comité Nacional Conjunto de EE. UU. sobre Prevención, Detección, Evaluación y Tratamiento de la Hipertensión (JNC). Las etiquetas pueden representar diferentes clasificaciones según la escala utilizada.
+
 AHA: Indica la clasificación de la presión arterial según las pautas de la Asociación Americana del Corazón (AHA). Al igual que con JNC, las etiquetas pueden representar diferentes clasificaciones según la escala utilizada.
 
 
