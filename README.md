@@ -25,3 +25,8 @@ AHA: Indica la clasificación de la presión arterial según las pautas de la As
 
 
 ![image](https://github.com/Laboratorio-1/Registros-PPG/assets/164699984/8853bfab-6de2-4e11-8aa7-eb25d6aa8eb4)
+
+
+
+
+
