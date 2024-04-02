@@ -13,4 +13,6 @@ Diastolic BP: La presión arterial diastólica del sujeto, medida en mmHg.
 Heart Rate: La frecuencia cardíaca del sujeto, medida en latidos por minuto (bpm).
 JNC: Indica la clasificación de la presión arterial según las pautas del Comité Nacional Conjunto de EE. UU. sobre Prevención, Detección, Evaluación y Tratamiento de la Hipertensión (JNC). Las etiquetas pueden representar diferentes clasificaciones según la escala utilizada.
 AHA: Indica la clasificación de la presión arterial según las pautas de la Asociación Americana del Corazón (AHA). Al igual que con JNC, las etiquetas pueden representar diferentes clasificaciones según la escala utilizada.
+
+
 ![image](https://github.com/Laboratorio-1/Registros-PPG/assets/164699984/8853bfab-6de2-4e11-8aa7-eb25d6aa8eb4)
