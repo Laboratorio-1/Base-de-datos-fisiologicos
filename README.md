@@ -44,7 +44,11 @@ Indica la clasificación de la presión arterial según las pautas de la Asociac
 
 
 
-La información de la tabla (https://github.com/Laboratorio-1/Base-de-datos-fisiologicos/assets/164699984/e3043d61-288b-405c-a1b7-8ef338898f2a)." Se encuentra contenida en las carpetas de la parte superior 🔝 discriminada según la clasificación y el criterio Joint National Committee (JNC) y la Asociación Americana del Corazón (AHA) que determina si la persona es prehipertensa, normotensa o hipertensa, también se encuentra la clasificación por género, paciente con diagnóstico y paciente sin diagnóstico. En cada una de las clasificación también se encuentra una carpeta con los 56 archivos ".CSV" con los datos de cada sujeto. Cada medición tiene una duración de 2 minutos y se ha realizado con una frecuencia de muestreo de 100 Hz. De igual forma los archivos se pueden descargar en una carpeta comprimida ".zip" haciendo clic en la carpeta y en la parte superior, le dará la opción de descargar. Los 56 archivos ".CSV" son compatibles con diferentes lenguajes de programación.
+La información de la tabla (https://github.com/Laboratorio-1/Base-de-datos-fisiologicos/assets/164699984/e3043d61-288b-405c-a1b7-8ef338898f2a)." 
+
+
+
+Se encuentra contenida en las carpetas de la parte superior 🔝 discriminada según la clasificación y el criterio Joint National Committee (JNC) y la Asociación Americana del Corazón (AHA) que determina si la persona es prehipertensa, normotensa o hipertensa, también se encuentra la clasificación por género, paciente con diagnóstico y paciente sin diagnóstico. En cada una de las clasificación también se encuentra una carpeta con los 56 archivos ".CSV" con los datos de cada sujeto. Cada medición tiene una duración de 2 minutos y se ha realizado con una frecuencia de muestreo de 100 Hz. De igual forma los archivos se pueden descargar en una carpeta comprimida ".zip" haciendo clic en la carpeta y en la parte superior, le dará la opción de descargar. Los 56 archivos ".CSV" son compatibles con diferentes lenguajes de programación.
 
 
 
