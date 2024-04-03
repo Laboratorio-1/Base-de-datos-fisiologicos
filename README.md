@@ -1,4 +1,4 @@
-                          ![image](https://github.com/Laboratorio-1/Base-de-datos-fisiologicos/assets/164699984/75f289d9-d903-4d59-b6d1-dc6e98a24cb5)
+![image](https://github.com/Laboratorio-1/Base-de-datos-fisiologicos/assets/164699984/75f289d9-d903-4d59-b6d1-dc6e98a24cb5)
 
 
 
