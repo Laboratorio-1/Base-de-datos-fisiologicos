@@ -1,5 +1,7 @@
 ### BASE DE DATOS PARA ESTIMACION DE PRESION ARTERIAL 
 
+![image]https://www.shutterstock.com/image-vector/physician-doctor-family-provider-patient-care-275423654
+
 
 El conjunto de datos representado en la tabla proporciona información detallada sobre diferentes parámetros médicos y demográficos de varios sujetos, relacionados con un estudio médico de pacientes. Los datos que describe la tabla son:
 
