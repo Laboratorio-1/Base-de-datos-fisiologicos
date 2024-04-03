@@ -39,7 +39,6 @@ Indica la clasificación de la presión arterial según las pautas de la Asociac
 
 
 								
-![image](https://github.com/Laboratorio-1/Base-de-datos-fisiologicos/assets/164699984/e3043d61-288b-405c-a1b7-8ef338898f2a)
 
 
 
